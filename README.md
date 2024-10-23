@@ -12,5 +12,5 @@ I'm a passionate software developer. I love exploring the world of technology, c
 - Learning machine learning algorithms 
 
 ## Let's Connect
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vijayramu/)
-- Email: [email@example.com](mailto:ramu.vijay.v@gmail.com)
+- LinkedIn: [Vijay Ramu](https://www.linkedin.com/in/vijayramu/)
+- Email: [ramu.vijay.v@gmail.com](mailto:ramu.vijay.v@gmail.com)
